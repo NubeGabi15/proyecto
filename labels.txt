@@ -1,0 +1,15 @@
+0 fresa_buena
+1 fresa_daniada
+2 fresa_media
+3 guineo_bueno
+4 guineo_daniado
+5 guineo_medio
+6 manzana_buena
+7 manzana_daniada
+8 manzana_media
+9 naranja_buena
+10 naranja_daniada
+11 naranja_media
+12 tomate_bueno
+13 tomate_daniado
+14 tomate_medio
